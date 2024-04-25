@@ -1,0 +1,3 @@
+selenium==4.19.0
+pandas==2.2.2
+nltk==3.8.1
